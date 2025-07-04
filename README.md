@@ -89,7 +89,7 @@ Dive into my impactful data projects, showcasing a range of analytical and visua
 ## 🎓 Education & Certifications
 
 ### Education
-* **Postgraduate Diploma, Data Analyst plus ETL** from Miracle IT Career Academy
+* **Postgraduate Diploma, Data Analyst plus ETL** from Miracle Infoserv
 * **Bachelor of Business Administration - BBA, Information Technology** from SAGE University, Bhopal
 * **12th class, High Secondary Commerce + IP** from Maharan Pratap H.S. School
 * **COPA, Computer Operator and Programming Assistant** from NCVT
